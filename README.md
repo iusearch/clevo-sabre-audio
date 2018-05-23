@@ -1,2 +1,1 @@
-# clevo-sabre-audio
-A project to work around sabre hifi on linux with clevo laptops.
+I am frustrated by the driver of sabre hifi on linux. I search for many sites but there is no answer. I decide to create a project to work around that. I don't have enough knowledge about that so if you are interested in this project, please star it. After we get enough people, we can discuss and make progress.
